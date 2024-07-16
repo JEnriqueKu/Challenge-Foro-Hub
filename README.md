@@ -122,6 +122,7 @@ spring.datasource.password=tu_contraseña
     }
   ]
 }
+```
 
   #### Autenticación
 
